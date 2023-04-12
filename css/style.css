@@ -700,7 +700,6 @@ main{
     }
 
     #main .link-icons{
-        bottom: none;
         right: 40px;
         flex-direction: column;
         column-gap: 0;
