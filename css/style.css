@@ -154,7 +154,7 @@ header nav .navigation .navigation-items a:hover:before{
 }
 
 .menu-btn{
-    background: url('../image/menu\ icon.png')no-repeat;
+    background: url('../image/menu%20icon.png')no-repeat;
     background-size: 30px;
     background-position: center;
     width: 40px;
